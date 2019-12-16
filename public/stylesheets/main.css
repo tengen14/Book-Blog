@@ -1,3 +1,8 @@
 body {
   overflow-x: hidden;
 }
+
+img {
+    max-height: 670px;
+    max-width: 470px;
+}
