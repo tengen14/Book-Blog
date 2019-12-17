@@ -24,3 +24,6 @@ hr {
 #edit-and-delete {
     padding: 10px 0px 30px 0px;
 }
+ #description-input {
+     height: 18vh;
+ }

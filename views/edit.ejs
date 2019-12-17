@@ -16,7 +16,7 @@
         </div>
         <div class="form-group">
             <label>Description:</label>
-            <textarea class="form-control form-control-lg"><%= blog.desc %></textarea>
+            <textarea id="description-input" class="form-control" type="text" name="blog[desc]" value="<%= blog.desc %>"><%= blog.desc %></textarea>
         </div>
         <input class="btn btn-warning btn-lg" value="Update" type="submit">
     </form>
