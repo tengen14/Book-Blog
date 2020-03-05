@@ -1,4 +1,4 @@
-![](./book-blog.png)
+<img src="./book-blog.png" width="300" height="300"/>
 
 <i>See live project at thane-engen.com/book-blog</i>
 
