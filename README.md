@@ -1,6 +1,6 @@
 <img src="./book-blog.png" width="300" height="300"/>
 
-<i>See live project at thane-engen.com/book-blog</i>
+<i>See project live <a href="http://thane-engen.com/book-blog">at thane-engen.com/book-blog</a></i>
 
 ***
 
@@ -18,13 +18,7 @@ Technologies used:
 
 ***
 
-## Process
-
-.........
-
-***
-
-## Challenges
+## Summary
 
 .........
 
